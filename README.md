@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faisal-Kabir-SiaraSolution
+- 👋 Hi, I’m @Faisal-Kabir
 - Software Quality Assurance Engineer Intern
 - 📫 How to reach me ... Faisal.Kabir@siarasolution.com
 
